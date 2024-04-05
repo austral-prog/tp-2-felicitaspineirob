@@ -7,6 +7,6 @@ def ada():
     print(full_name)
     full_name=f"{first_name.upper()} {last_name.upper()}"
     print(full_name)
-    full_name=f"{"  "} {first_name.lower()} {last_name.lower()}"
+    full_name=f'{"  "} {first_name.lower()} {last_name.lower()}'
     print(full_name)
     
